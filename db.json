@@ -1,52 +1,56 @@
 {
   "user": [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "password":"Bret"  
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "password":"Antonette"  
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "password":"Samantha" 
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "password":"Karianne" 
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "password":"Kamren"
-
-  }
-],
-  "planes": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "password": "Bret"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "password": "Antonette"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "password": "Samantha"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "password": "Karianne"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "Kamren"
+    }
+  ],
+  "planes": [
+    {
+      "id": 1,
+      "name": "Base",
+      "uf": 180
+    },
+    {
+      "id": 2,
+      "name": "Plus",
+      "uf": 500
+    },
+    {
+      "id": 1,
+      "name": "Pescadores",
+      "uf": 180
     }
   ],
   "vida": {
@@ -54,9 +58,6 @@
     "footer": "<div>Seguro Intermediado por BancoEstado Corredores de Seguros S.A. La Compañía que asume los riesgos es MetLife Chile Seguros de Vida S.A. condiciones depositadas en la CMF bajo el siguiente código POL 3 2013 0085 y CAD 2 2017 0115. Oferta Válida para contratar hasta el 31/12/2019.BancoEstado Corredores de Seguros S.A. es filial de BancoEstado, el cual posee el 50,1% de la propiedad de dicha entidad. El restante 49,9% corresponde a MetLife Chile Inversiones Limitada.</div>",
     "contact": "59632993923",
     "banner": "PROTEGE AQUIEN MÁS QUIERESy cuida tu bolsillo durante todo el año",
-  
     
   }
 }
-
-
